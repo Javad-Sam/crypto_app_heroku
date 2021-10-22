@@ -9,3 +9,5 @@ The following libraries are used:
 * json
 * pandas
 * base64
+
+For web scraping, I have modified the code provided in [Web Scraping Crypto Prices With Python](https://tommycc.medium.com/web-scraping-crypto-prices-with-python-41072ea5b5bf)
